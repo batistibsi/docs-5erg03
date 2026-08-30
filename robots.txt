@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://batistibsi.github.io/docs-5erg03/sitemap.xml
